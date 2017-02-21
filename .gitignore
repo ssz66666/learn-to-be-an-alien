@@ -58,7 +58,7 @@ $RECYCLE.BIN/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -66,3 +66,4 @@ $RECYCLE.BIN/
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,macos,windows
+/build/
